@@ -14,7 +14,7 @@ As with any role playing game, we roll and apply modifiers. General RPG dice rol
 * rolling a 1 is a *critical miss*
 * if there are tied rolls (i.e., the result of a roll + modifier), the highest modifier wins
 * if there are tied rolls and tied modifiers, a re-roll is required
-* a replacement d20 can be purchased for $1 (or one can be brought from home, subject to approval/testing)
+* a replacement die can be purchased for $1 (or one can be brought from home, subject to approval/testing)
 
 ### Additional rules that we have:
 * modifiers stack up until used
@@ -48,6 +48,8 @@ As with any role playing game, we roll and apply modifiers. General RPG dice rol
 |unexcused tardy or absent for the past X team meetings|-(X * 5)|
 |you profess that these rules and/or this concept is stupid|-15|
 |you are supposed to scribe but are unable to (injury, etc.)|ongoing -20 until you are able to scribe|
+
+_On our team, there is some debate about the condition "you failed to acquire your die before your first meeting"; as written, it implies that the team member without a die receives the modifier. Some feel that the modifier should go to the person responsible for handing them out._
 
 ## Scenario
 1. a team meeting is scheduled at 9:00AM and everyone attends on time; no modifiers
