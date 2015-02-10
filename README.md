@@ -60,7 +60,7 @@ _On our team, there is some debate about the condition "you failed to acquire yo
 6. Edward realizes he forgot his die, so he goes to retrieve it. When he comes back in at 9:02AM, he is now the last person in. Diane's modifier is removed, and Edward receives the -1.
 7. Each person rolls. Frankie rolled the only 1, so she is chosen as scribe.
 8. Greg walks in at 9:03AM, _after the roll_. He was helping a customer, and the manager approves his tardiness. He receives a -1 modifier _for the next roll_
-9. Harriet walks in at 9:04AM, _after the roll_  because she was making herself an espresso. The manager does _not_ approve her tardiness, so she receives a -5 modifiere _for the next roll_
+9. Harriet walks in at 9:04AM, _after the roll_  because she was making herself an espresso. The manager does _not_ approve her tardiness, so she receives a -5 modifier _for the next roll_
 10. Ivan forgot about the meeting and doesn't attend. This is an unexcused absense, so he receives a -5 modifier _for the next roll_
 
 ## Results of using this method
